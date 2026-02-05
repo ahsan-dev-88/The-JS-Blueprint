@@ -111,4 +111,6 @@
         console.log("ahsan ");
        }
       multipleGreet(function () {console.log("This is ahsan")},100);
+     
+
     
